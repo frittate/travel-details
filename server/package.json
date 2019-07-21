@@ -1,0 +1,19 @@
+{
+  "name": "travel-details-svr",
+  "version": "1.0.0",
+  "description": "Travel Details Server",
+  "main": "index.js",
+  "scripts": {
+    "build": "node server.js",
+    "test": "npm test"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "api",
+    "webservice",
+    "json"
+  ],
+  "author": "",
+  "license": "ISC"
+}
